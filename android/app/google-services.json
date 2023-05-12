@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64841492660",
+    "project_id": "email-password-authentic-282d7",
+    "storage_bucket": "email-password-authentic-282d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64841492660:android:7f3c2e1fa85e4e4af08fe1",
+        "android_client_info": {
+          "package_name": "com.example.email_password_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64841492660-mvc00n9476lg5oqscit3phc8rs7kbgck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPgnzDVNQSxAne3QxQ8DSgKPs22h4_NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64841492660-mvc00n9476lg5oqscit3phc8rs7kbgck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
